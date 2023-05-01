@@ -74,10 +74,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Rooms List endpoint]**
-- **[Devise authentication to access Reservations]**
-- **[Authenticated Users can add/mark as removed a room]**
-- **[Authenticated Users can reserve/remove a room]**
+- **Rooms List endpoint**
+- **Devise authentication to access Reservations**
+- **Authenticated Users can add/mark as removed a room**
+- **Authenticated Users can reserve/remove a room**
 
 ## <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/spiral-notepad_1f5d2-fe0f.png" width="23" height="20"/> API Documentation<a name="api-docs"></a>
 
